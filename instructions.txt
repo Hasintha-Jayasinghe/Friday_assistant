@@ -1,4 +1,5 @@
 First click on the install.bat file and download python verison 3.6.6 form the page it will open
 After downloading the installer please run through the setup instructions and when I think in the last page please click the checkbox that says "add python to path"
+After this you have to open a cmd window and navigate to the directory you downloaded friday and type "pip install -r requirements.txt" and wait till it finishes downloading
 After all this you can run the file by clicking on the path area of your file explorer and typing cmd and then when it opens typing python main.py will run the file
 Thanks for donwloading friday
